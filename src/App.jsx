@@ -839,7 +839,7 @@ function Storefront() {
           <div className="footer-column">
             <h3>THE LITTLE DETAILS</h3>
             <p>Thoughtfully curated. Made for your everyday.</p>
-            <a href="mailto:velvet@gmail.com">Get in touch ↗</a>
+            <a href="mailto:velvet-women@gmail.com">Get in touch ↗</a>
           </div>
         </div>
 
